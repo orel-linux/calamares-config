@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         Arch Linux
-    shortProductName:    Arch Linux
-    version:             2024-03
+    productName:         OREL Linux
+    shortProductName:    OREL Linux
+    version:             24w01b
     #shortVersion:        
-    versionedName:       Arch Linux 
-    shortVersionedName:  Arch Linux
-    bootloaderEntryName: Arch Linux
+    versionedName:       OREL Linux 
+    shortVersionedName:  OREL Linux
+    bootloaderEntryName: OREL Linux
     #productUrl:          https://calamares.io/
     #supportUrl:          https://github.com/calamares/calamares/wiki
     #knownIssuesUrl:      https://github.com/calamares/calamares/issues
